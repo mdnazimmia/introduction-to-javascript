@@ -23,6 +23,6 @@ var user_home_address = "andor killa bandor ban"; //snake case
 var userHomeAddress = "andor killa bandor ban"; //camel case : we will use this one
 var UserHomeAddress = "andor killa bandor ban"; //pascal case
 
-// variable name is case senstive
+// variable name is case sensitive
 var person = 25;
 var Person = 35;
