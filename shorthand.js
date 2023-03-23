@@ -14,3 +14,4 @@ console.log(price1)
 
 // addition to the same variable shorthand
 // += means adding some value to the existing value
+price1 += 10;
