@@ -1,7 +1,7 @@
 // variable declaration
 var tomatoPrice = 25;
 
-// variable price change
+// variable value update
 tomatoPrice = 30;
 
 // add some value to the previous value
