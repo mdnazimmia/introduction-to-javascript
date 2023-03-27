@@ -25,3 +25,8 @@ price2 -= 5;
 price1 *= 5;
 
 // shorthand means deducting some values form the current value of the variable
+var carPrice = 300;
+var instrumentPrice = 100;
+
+carPrice += 100;
+console.log(carPrice)
