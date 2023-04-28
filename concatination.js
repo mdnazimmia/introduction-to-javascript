@@ -6,4 +6,5 @@ var totalprice = price1 + price2;
 var firstName = 'Nur Ibnul';
 var lastName = 'Arabi';
 var fullName = firstName + ' ' + lastName;
-console.log(fullName);
+// console.log(fullName);
+

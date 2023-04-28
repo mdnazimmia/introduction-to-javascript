@@ -35,27 +35,61 @@
 // var proPerson = (500 / 30);
 // // console.log(proPerson);
 
-var applePrice = 30;
-var annanasPrice = 70;
-var totalPrice = (applePrice + annanasPrice);
+// var applePrice = 30;
+// var annanasPrice = 70;
+// var totalPrice = (applePrice + annanasPrice);
+// // console.log(totalPrice);
+
+// // applePrice = applePrice + 20;
+// applePrice += 50;
+// console.log(applePrice);
+
+// applePrice -= 20;
+// console.log(applePrice);
 // console.log(totalPrice);
 
-// applePrice = applePrice + 20;
-applePrice += 50;
-console.log(applePrice);
 
-applePrice -= 20;
-console.log(applePrice);
-console.log(totalPrice);
+// applePrice *= 6;
+// console.log(applePrice);
+
+// applePrice /= 10;
+// console.log(applePrice);
+
+// applePrice++;
+// console.log(applePrice);
+// applePrice--;
+// console.log(applePrice);
+
+var firstName = 'Noor Ibnul';
+var lastName = 'Arabi';
+var fullName = firstName + ' ' + lastName;
+// console.log(fullName);
+
+var number1 = '50';
+var number2 = 30;
+var totalNumber = number1 + number2;
+// console.log(totalNumber);
+
+// console.log(number1);
+
+var number1 = parseInt(number1);
+// console.log(number1);
+
+var gpa = '3.70';
+var gpaNumber = parseFloat(gpa);
+// console.log(gpaNumber);
 
 
-applePrice *= 6;
-console.log(applePrice);
+// var price = 100;
+// console.log(typeof price);
 
-applePrice /= 10;
-console.log(applePrice);
+// var price = '100';
+// console.log(typeof price);
 
-applePrice++;
-console.log(applePrice);
-applePrice--;
-console.log(applePrice);
+// var isHappy = true;
+// console.log(typeof isHappy);
+
+var apple = 54;
+var person = 25;
+var remainder = apple % person;
+console.log(remainder); 
